@@ -5,7 +5,7 @@ description: Post-training optimization, calibration, and reprameterization
 img: assets/img/model_optimization_rep.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 <p>
