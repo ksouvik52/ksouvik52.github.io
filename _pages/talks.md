@@ -2,11 +2,13 @@
 layout: page
 permalink: /talks/
 title: talks
-description: Materials for courses you taught. Replace this text with your description.
+description: Invited talks and panel discussions.
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+`Nov 2024:` **Invited talk** at USC, EE511, hosted by professor Massoud Pedram
+`Nov 2024:` **Panel discussion** at Synopsys, hosted by NSF industry-academic collaboration
+`Sep 2024:` **Invited talk** at D-Matrix, hosted by Dr. Xin Wang
+`Apr 2024:` **Invited talk** at Georgia tech, CS4803/8803, hosted by professor Celine Lin
+`Mar 2024:` **Invited talk** at USC, CS560, hosted by professor Yue Zhao
