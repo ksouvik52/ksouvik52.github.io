@@ -23,5 +23,5 @@ hardware compute and architectures</b>. I have co-authored >75 peer-reviewed pap
 </p>
 
 <p>
-I serve as the <b>founding AC and committee member</b> of the <a target="_blank" href="https://cpal.cc/"><b>Conference in Parsimony and Learning (CPAL)</b></a>. Additionally, I serve in the AC committee for various journals and conferences including ICLR, NeurIPS (<a target="_blank" href="https://neurips.cc/Conferences/2022/ProgramCommittee"><b>outstanding reviewer recognition'22)</b></a>), EMNLP (<a target="_blank" href="https://aclanthology.org/2020.emnlp-main.0.pdf"><b>outstanding reviewer recognition'20)</b></a>), and DAC.
+I serve as the <b>founding AC and committee member</b> of the <a target="_blank" href="https://cpal.cc/"><b>Conference on Parsimony and Learning (CPAL)</b></a>. Additionally, I serve in the AC committee for various journals and conferences including ICLR, NeurIPS (<a target="_blank" href="https://neurips.cc/Conferences/2022/ProgramCommittee"><b>outstanding reviewer recognition'22)</b></a>), EMNLP (<a target="_blank" href="https://aclanthology.org/2020.emnlp-main.0.pdf"><b>outstanding reviewer recognition'20)</b></a>), and DAC.
 </p>
