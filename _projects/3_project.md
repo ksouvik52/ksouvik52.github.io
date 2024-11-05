@@ -2,7 +2,7 @@
 layout: page
 title: Novel accelerator-model co-exploration
 description: Exploration of traditional and emerging compute systems for scalable AI workloads
-img: assets/img/lora.jpg
+img: assets/img/cim.jpg
 importance: 3
 category: work
 related_publications: false
