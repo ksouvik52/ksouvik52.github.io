@@ -1,6 +1,6 @@
 ---
 layout: profiles
-permalink: /Collaborations/
+permalink: /people/
 title: people
 description: Collaborations and mentoring
 nav: true
