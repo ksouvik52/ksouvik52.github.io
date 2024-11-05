@@ -1,6 +1,6 @@
 ---
 layout: page
-title: LLM Personalization and Long-context Learning
+title: LLM personalization and long-context learning
 description: Efficient fine-tuning and long-context understanding
 img: assets/img/lora.jpg
 importance: 2
