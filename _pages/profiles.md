@@ -17,4 +17,16 @@ profiles:
     #image: prof_pic.jpg
     content: about_zhenyu.md
     #image_circular: false # crops the image to make it circular
+  - align: right
+    #image: prof_pic.jpg
+    content: about_zhifan.md
+    #image_circular: false # crops the image to make it circular
+  - align: right
+    #image: prof_pic.jpg
+    content: about_hongyi.md
+    #image_circular: false # crops the image to make it circular
+  - align: right
+    #image: prof_pic.jpg
+    content: about_yuke.md
+    #image_circular: false # crops the image to make it circular
 ---
