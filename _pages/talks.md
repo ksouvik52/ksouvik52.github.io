@@ -6,6 +6,7 @@ description: Invited talks and panel discussions.
 nav: true
 nav_order: 6
 ---
+`Dec 2024:` **Invited talk** at CMInDS, IIT Bombay, hosted by professor D Manjunath
 
 `Nov 2024:` **Invited talk** at USC, EE511, hosted by professor Massoud Pedram
 
