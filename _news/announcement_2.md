@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2024-09-28 15:59:00-0400
+date: 2024-09-24 15:59:00-0400
 inline: true
 related_posts: false
 ---
-1x main conference (`ShiftAddLLM-first MATMUL-free LLM`) and 2x workshop papers got accepted at NeurIPS 2024 :sparkles:
+1x paper on LLM fine-tuning (`LaMDA`) got accepted as Findings of EMNLP 2024 :sparkles:

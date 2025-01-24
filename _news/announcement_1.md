@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2024-10-30 15:59:00-0400
+date: 2024-09-28 15:59:00-0400
 inline: true
 related_posts: false
 ---
-1x paper got accepted at WACV 2025
+1x main conference (`ShiftAddLLM-first MATMUL-free LLM`) and 2x workshop papers got accepted at NeurIPS 2024 :sparkles:
