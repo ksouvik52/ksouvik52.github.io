@@ -7,7 +7,7 @@ permalink: /
 profile:
   align: left
   image: profile.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: true # crops the image to make it cir
   # more_info: >
   #   <p>Los Angeles</p>
    
