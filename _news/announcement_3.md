@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2024-07-07 15:59:00-0400
+date: 2025-03-06 15:59:00-0400
 inline: true
 related_posts: false
 ---
-2x paper on post-training data-free quantization and 1x paper on LLM fine-tuning (`AFLoRA`) got accepted at ECCV 2024 and ACL 2024, respectively :sparkles:
+I will be serving as an Area Chair at `ACL 2025` and TPC chair for AIML track at `IEEE COINS 2025`
