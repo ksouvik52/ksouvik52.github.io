@@ -9,7 +9,7 @@ nav_order: 6
 
 `Oct'24 - till date:` **NSF-Intel center** Advisory board member
 
-`Sep'24 - till date:` **Lead** Research Scientist, Intel Labs, San Diego
+`Sep'24 - till date:` **Staff** Research Scientist, Intel Labs, San Diego
 
 `Jun'23 - till date:` **SRC** Advisory member
 
