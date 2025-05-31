@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 <p>
-:trophy: Honored and humbled to be recipient of the (<a target="_blank" href="https://www.inns.org/inns-award-recipients"><b>International Neural Network Society (INNS) Young Investigator Award 2025</b></a>) !! :trophy:
+:trophy: Honored and humbled to be recipient of the <a target="_blank" href="https://www.inns.org/inns-award-recipients"><b>International Neural Network Society (INNS) Young Investigator Award 2025</b></a> !! :trophy:
 </p>
